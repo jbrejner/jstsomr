@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 3 jens jens 4096 Jun 13 14:59 .
+drwxrwxr-x 8 jens jens 4096 Jun 13 14:53 ..
+-rw-rw-r-- 1 jens jens    0 Jun 13 14:59 conntes.txt
+drwxrwxr-x 8 jens jens 4096 Jun 13 14:59 .git
+-rw-rw-r-- 1 jens jens   29 Jun 10 16:16 README.md
+-rw-rw-r-- 1 jens jens    8 Jun 10 16:18 UpperCase_Content
